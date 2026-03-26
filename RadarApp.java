@@ -1,6 +1,3 @@
-// Matheus Lima de Santana 
-// RA: 00357187 : IDE NetBeans 8.2
-
 package radar;
 import java.util.Scanner;
 
