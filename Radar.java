@@ -1,6 +1,3 @@
-// Matheus Lima de Santana 
-// RA: 00357187 : IDE NetBeans
-
 package radar;
 
 public class Radar {
